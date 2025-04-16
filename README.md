@@ -29,9 +29,11 @@ It’s a fun way to practice layout, styling, and alignment — just like in rea
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-url>
-   cd <your-folder-name>
+   git clone https://github.com/meet242005/unicode_todo_list
+   cd unicode_todo_list
    ```
+
+    or download as zip and simply export and open it.
 
 2. **Ensure Flutter is installed**  
    Check Flutter setup with:
@@ -110,7 +112,7 @@ Implement functionality to filter the displayed todos based on the entered text 
 
 Stay connected for more workshops, projects, and open-source code!
 
-- [DJUNICODE](https://www.linkedin.com/company/djunicode/)
+- [DJUnicode](https://www.linkedin.com/company/djunicode/)
 - [Meet Chavan](https://www.linkedin.com/in/meet-chavan)
 - [Rishi Shah](https://www.linkedin.com/in/rishi-shah-24879b244)
 - [Vikas Kewat](https://www.linkedin.com/in/vikaskewat)
