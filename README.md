@@ -116,3 +116,17 @@ Stay connected for more workshops, projects, and open-source code!
 - [Meet Chavan](https://www.linkedin.com/in/meet-chavan)
 - [Rishi Shah](https://www.linkedin.com/in/rishi-shah-24879b244)
 - [Vikas Kewat](https://www.linkedin.com/in/vikaskewat)
+
+---
+
+### Need any guidance?
+
+Our team of excellent mentees is here to help you. You can contact them on WhatsApp – just tap the link and say **Hi**!
+
+- **Aditya Kathe** – [9326956422](https://wa.me/919326956422)
+- **Ashka Jain** – [7304783139](https://wa.me/917304783139)
+- **Dhruv Mehta** – [9653373853](https://wa.me/919653373853)
+- **Heta Karani** – [9136263059](https://wa.me/919136263059)
+- **Rishi Mehta** – [8657438091](https://wa.me/918657438091)
+
+*Feel free to reach out—whether you're confused, curious, or just need a push in the right direction!*
